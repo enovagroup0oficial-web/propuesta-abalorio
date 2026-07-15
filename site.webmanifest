@@ -1,0 +1,17 @@
+{
+  "name": "Abalorio · Propuesta Comercial",
+  "short_name": "Abalorio",
+  "description": "Automatización de ventas por WhatsApp",
+  "start_url": "/propuesta-abalorio/",
+  "display": "standalone",
+  "background_color": "#141414",
+  "theme_color": "#141414",
+  "icons": [
+    {
+      "src": "/propuesta-abalorio/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
